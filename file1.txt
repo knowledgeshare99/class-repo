@@ -1,0 +1,3 @@
+hello
+this is my first createdrepo
+pushing to remote github repo: class-repo
